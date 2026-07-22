@@ -1,0 +1,11 @@
+gradio
+streamlit
+pyperclip
+nltk
+sumy
+transformers
+torch
+PyPDF2
+rouge-score
+evaluate
+sentencepiece
